@@ -7,6 +7,10 @@
 - [NXEngine-evo](https://github.com/nxengine/nxengine-evo)
 ### Descent 1 & 2
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth)
+### DOOM Engine
+- [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom)
+- [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine)
+- [GZDoom](https://github.com/ZDoom/gzdoom)
 ### The Elder Scrolls II: Daggerfall
 - [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity)
 ### The Elder Scrolls III: Morrowind
@@ -21,6 +25,8 @@
 - [OpenGothic](https://github.com/Try/OpenGothic)
 ### The Legend of Zelda: Ocarina of Time
 - [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright)
+### Marathon / 2 / Infinity
+- [Aleph One](https://github.com/Aleph-One-Marathon/alephone)
 ### Metroid Prime
 - [Metaforce](https://github.com/AxioDL/metaforce)
 ### S.T.A.L.K.E.R.: Shdow of Chernobyl / Call of Pripyat / Clear Sky
@@ -32,7 +38,11 @@
 - [OpenJK](https://github.com/JACoders/OpenJK)
 ### Super Mario 64
 - [sm64ex](https://github.com/sm64pc/sm64ex)
+### System Shock
+- [Shockolate](https://github.com/Interrupt/systemshock)
 ### Ultima VII
 - [Exult](https://exult.sourceforge.io/)
+### WipeOut
+- [WipeOut: Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition)
 ### X-COM: UFO Defense / Terror from the Deep
 - [OpenXcom](https://github.com/OpenXcom/OpenXcom/)
