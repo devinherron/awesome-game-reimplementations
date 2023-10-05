@@ -40,6 +40,8 @@
 - [sm64ex](https://github.com/sm64pc/sm64ex)
 ### System Shock
 - [Shockolate](https://github.com/Interrupt/systemshock)
+### Tomb Raider 1 / 2 / 3 / 4 / 5
+- [OpenTomb](https://github.com/opentomb/OpenTomb)
 ### Ultima VII
 - [Exult](https://exult.sourceforge.io/)
 ### WipeOut
