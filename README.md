@@ -29,8 +29,12 @@
 - [Aleph One](https://github.com/Aleph-One-Marathon/alephone)
 ### Metroid Prime
 - [Metaforce](https://github.com/AxioDL/metaforce)
+### Quake
+- [Quakespasm-Spiked](https://github.com/Shpoike/Quakespasm)
 ### S.T.A.L.K.E.R.: Shdow of Chernobyl / Call of Pripyat / Clear Sky
 - [OpenXRay](https://github.com/OpenXRay/xray-16)
+### Sim City
+- [Micropolis](https://github.com/SimHacker/micropolis)
 ### Star Control II
 - [The Ur-Quan Masters](https://sc2.sourceforge.net/)
 - [The Ur-Quan Masters HD MegaMod](https://github.com/JHGuitarFreak/UQM-MegaMod)
