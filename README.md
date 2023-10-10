@@ -23,6 +23,8 @@
 - [FreeSpace 2 Source Code Project](https://github.com/scp-fs2open/fs2open.github.com)
 ### Gothic 2
 - [OpenGothic](https://github.com/Try/OpenGothic)
+### The Legend of Zelda: A Link to the Past
+- [Zelda 3](https://github.com/snesrev/zelda3)
 ### The Legend of Zelda: Ocarina of Time
 - [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright)
 ### Marathon / 2 / Infinity
@@ -42,6 +44,10 @@
 - [OpenJK](https://github.com/JACoders/OpenJK)
 ### Super Mario 64
 - [sm64ex](https://github.com/sm64pc/sm64ex)
+### Super Mario World
+- [Super Mario World](https://github.com/snesrev/smw)
+### Super Metroid
+- [Super Metroid](https://github.com/snesrev/sm)
 ### System Shock
 - [Shockolate](https://github.com/Interrupt/systemshock)
 ### Tomb Raider 1 / 2 / 3 / 4 / 5
