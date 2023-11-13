@@ -17,6 +17,8 @@
 - [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius)
 ### Descent 1 & 2
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth)
+### Diablo
+- [devilutionX](https://github.com/diasurgical/devilutionX)
 ### DOOM Engine
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom)
 - [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine)
